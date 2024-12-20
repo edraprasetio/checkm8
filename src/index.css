@@ -10,6 +10,12 @@ code {
 }
 
 @font-face {
+    font-family: 'Inter-Light';
+    src: local('Inter-Light'), url('./assets/fonts/Inter_18pt-Light.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
     font-family: 'Inter-Regular';
     src: local('Inter-Regular'), url('./assets/fonts/Inter_18pt-Regular.ttf') format('truetype');
     font-weight: normal;
